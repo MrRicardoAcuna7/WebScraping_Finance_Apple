@@ -5,4 +5,4 @@ Small project to extract economic metrics of Apple using a python library Scrapy
 2. Through xpath get item in response(url)  
 3. Store in yield  
 4. Export to csv file  
-![alt text](yahoo_apple.jpg)
+![alt text](Yahoo_Apple.jpg)
